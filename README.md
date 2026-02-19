@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ewerton+Carlos+Barboza;I'm+23+years+old;I+am+from+Brazil,+AL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ewerton+Carlos+Barboza;I'm+24+years+old;I+am+from+Brazil,+AL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EwertonBarboza&show_icons=true&count_private=true&hide=stars&hide_border=true&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117" alt="Ewerton Carlos Barboza github stats" /> 
